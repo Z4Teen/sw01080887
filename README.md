@@ -1,2 +1,2 @@
-# sw01080887
-text 
+# SW01080887
+GitHub repository for Text Analytics subject 
